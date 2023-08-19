@@ -1753,6 +1753,7 @@ name = "particle-rust"
 version = "0.1.0"
 dependencies = [
  "ggez",
+ "lazy_static",
  "rand",
 ]
 
